@@ -1,0 +1,15 @@
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

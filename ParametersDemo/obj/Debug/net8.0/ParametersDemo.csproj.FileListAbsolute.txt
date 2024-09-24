@@ -1,0 +1,15 @@
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/bin/Debug/net8.0/ParametersDemo
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/bin/Debug/net8.0/ParametersDemo.deps.json
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/bin/Debug/net8.0/ParametersDemo.runtimeconfig.json
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/bin/Debug/net8.0/ParametersDemo.dll
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/bin/Debug/net8.0/ParametersDemo.pdb
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ParametersDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ParametersDemo.AssemblyInfoInputs.cache
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ParametersDemo.AssemblyInfo.cs
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ParametersDemo.csproj.CoreCompileInputs.cache
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ParametersDemo.sourcelink.json
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ParametersDemo.dll
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/refint/ParametersDemo.dll
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ParametersDemo.pdb
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ParametersDemo.genruntimeconfig.cache
+/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/ParametersDemo/obj/Debug/net8.0/ref/ParametersDemo.dll
