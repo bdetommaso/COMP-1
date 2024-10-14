@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/HelloWorld.csproj": {}
+    "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HRManager/HRManager.csproj": {}
   },
   "projects": {
-    "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/HelloWorld.csproj": {
+    "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HRManager/HRManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HRManager/HRManager.csproj",
+        "projectName": "HRManager",
+        "projectPath": "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HRManager/HRManager.csproj",
         "packagesPath": "/home/sandman/.nuget/packages/",
-        "outputPath": "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HelloWorld/obj/",
+        "outputPath": "/home/sandman/Documents/CNM/SCHOOL/CIS 1280/COMP 1/HRManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sandman/.nuget/NuGet/NuGet.Config"
