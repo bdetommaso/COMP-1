@@ -1,0 +1,14 @@
+<Window x:Class="SprocketOrderApp.SprocketOrderForm"
+        Title="Sprocket Order Form" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBox Name="txtCustomerName" PlaceholderText="Customer Name" />
+            <TextBox Name="txtAddress" PlaceholderText="Address" />
+            <CheckBox Name="chkLocalPickup" Content="Local Pickup" Checked="chkLocalPickup_Checked" />
+            <Button Name="btnAdd" Content="Add Sprocket" Click="btnAdd_Click" />
+            <Button Name="btnRemove" Content="Remove Sprocket" Click="btnRemove_Click" />
+            <Button Name="btnUpdate" Content="Save Order" Click="btnUpdate_Click" />
+            <TextBox Name="txtOrderSummary" IsReadOnly="True" AcceptsReturn="True" Height="200" />
+        </StackPanel>
+    </Grid>
+</Window>
